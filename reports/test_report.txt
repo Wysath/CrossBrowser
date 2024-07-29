@@ -1,0 +1,20 @@
+Testing on: chrome (Desktop)
+Page title is: Figma : l'outil de design à interface collaborative
+Test failed: Expected title to include 'Figma: The Collaborative Interface Design Tool', but got 'Figma : l'outil de design à interface collaborative': expected 'Figma : l\'outil de design à interfac…' to include 'Figma: The Collaborative Interface De…'
+Screenshot saved at: C:\Users\Louna\selenium-test\reports\screenshots\chrome_desktop_screenshot.png
+
+Testing on: firefox (Desktop)
+Page title is: Figma : l'outil de design à interface collaborative
+Test failed: Expected title to include 'Figma: The Collaborative Interface Design Tool', but got 'Figma : l'outil de design à interface collaborative': expected 'Figma : l\'outil de design à interfac…' to include 'Figma: The Collaborative Interface De…'
+Screenshot saved at: C:\Users\Louna\selenium-test\reports\screenshots\firefox_desktop_screenshot.png
+
+Testing on: chrome (Mobile)
+Page title is: Figma : l'outil de design à interface collaborative
+Test failed: Expected title to include 'Figma: The Collaborative Interface Design Tool', but got 'Figma : l'outil de design à interface collaborative': expected 'Figma : l\'outil de design à interfac…' to include 'Figma: The Collaborative Interface De…'
+Screenshot saved at: C:\Users\Louna\selenium-test\reports\screenshots\chrome_mobile_screenshot.png
+
+Testing on: firefox (Mobile)
+Page title is: Figma : l'outil de design à interface collaborative
+Test failed: Expected title to include 'Figma: The Collaborative Interface Design Tool', but got 'Figma : l'outil de design à interface collaborative': expected 'Figma : l\'outil de design à interfac…' to include 'Figma: The Collaborative Interface De…'
+Screenshot saved at: C:\Users\Louna\selenium-test\reports\screenshots\firefox_mobile_screenshot.png
+
